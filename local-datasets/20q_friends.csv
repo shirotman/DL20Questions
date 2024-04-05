@@ -1,0 +1,254 @@
+question_num,game_num,question,answer,ground_truth
+0,1,Is it a living thing?,no,headphones
+1,1,Is it man-made?,yes,headphones
+2,1,Is it something that people use every day?,yes,headphones
+3,1,Is it smaller than a car?,yes,headphones
+4,1,Is it typically found indoors?,yes,headphones
+5,1,Is it something commonly found in a kitchen?,no,headphones
+6,1,Is it electronic?,yes,headphones
+7,1,Is it something used for communication?,no,headphones
+8,1,Is it used for entertainment?,yes,headphones
+9,1,Is it a television?,no,headphones
+10,1,Is it a gaming console?,no,headphones
+11,1,Is it a smartphone or tablet?,no,headphones
+12,1,Is it a device used for listening to music or audio?,yes,headphones
+13,1,Is it a pair of headphones or earphones?,win,headphones
+14,2,Is the thing you're thinking of an object?,yes,chair
+15,2,Is the object something typically found indoors?,yes,chair
+16,2,Is the object commonly used for recreational purposes?,no,chair
+17,2,Is the object primarily used for practical purposes?,yes,chair
+18,2,Is the object commonly found in the kitchen?,yes,chair
+19,2,Is the object used for cooking or preparing food?,no,chair
+20,2,Is the object typically used for storing or organizing items in the kitchen?,no,chair
+21,2,"Is the object typically found in the kitchen but not directly related to cooking, storing,  or organizing items?",yes,chair
+22,2,Is the object a kitchen appliance?,no,chair
+23,2,Is the object commonly found on a kitchen countertop?,no,chair
+24,2,Is the object typically kept in a kitchen cabinet or drawer?,no,chair
+25,2,Is the object associated with cleaning or maintaining the kitchen?,no,chair
+26,2,Is the object associated with dining or eating in the kitchen?,yes,chair
+27,2,Is the object related to the consumption or serving of food or beverages?,no,chair
+28,2,Is the object a piece of furniture typically found in a kitchen?,yes,chair
+29,2,Is the object commonly used for sitting in the kitchen?,yes,chair
+30,2,Is the object a chair or stool?,yes,chair
+31,2,Is the object a stool?,no,chair
+32,2,Is the object a chair?,win,chair
+33,4,Is it a person?,no,moon
+34,4,Is it an object we use?,no,moon
+35,4,Is it alive?,no,moon
+36,4,Is it a concept?,no,moon
+37,4,Is it an object?,yes,moon
+38,4,Is it something I might see outside?,yes,moon
+39,4,Is it something I'll probably see in the city?,yes,moon
+40,4,Is it something you can lift?,no,moon
+41,4,Does it smell like something?,no,moon
+42,4,Is it probable that I'll touch it?,no,moon
+43,4,can I touch it?,yes,moon
+44,4,Is it bigger than a car?,yes,moon
+45,4,Is it a building?,no,moon
+46,4,Is it a cloud?,no,moon
+47,4,Is it the moon?,win,moon
+48,5,Is it an object?,yes,cup
+49,5,Is it something you can lift?,yes,cup
+50,5,Is it something you can use?,yes,cup
+51,5,Is it for entertainment?,no,cup
+52,5,Is it in the house?,yes,cup
+53,5,Is it in a specific room?,no,cup
+54,5,Is it a lamp?,no,cup
+55,5,Is it a specific color?,yes,cup
+56,5,Is it something you'll use everyday?,yes,cup
+57,5,Is it a computer?,no,cup
+58,5,Does it have multiple uses?,no,cup
+59,5,Is it alive?,no,cup
+60,5,Is it a pot?,no,cup
+61,5,Is it a chair?,no,cup
+62,5,Is it a furniture,no,cup
+63,5,Is it an aircondition?,no,cup
+64,5,Does it use electricity?,no,cup
+65,5,Do you put things on it?,no,cup
+66,5,Is it soft?,no,cup
+67,5,Is it a cup?,win,cup
+68,6,Is it alive?,yes,mosquito
+69,6,Is it a person?,no,mosquito
+70,6,Is it a pet?,no,mosquito
+71,6,Is it a wild animal?,no,mosquito
+72,6,Is it a stray cat?,no,mosquito
+73,6,Is it a cow?,no,mosquito
+74,6,Is it an animal?,yes,mosquito
+75,6,Is it in the house?,yes,mosquito
+76,6,Is it welcome in the house?,no,mosquito
+77,6,Is it a mosquito,win,mosquito
+78,7,Is it an animal?,yes,dog
+79,7,Is it currently alive?,yes,dog
+80,7,Is it an animal that lives in Israel?,yes,dog
+81,7,Is this a mammal?,yes,dog
+82,7,Is this animal useful to humans?,yes,dog
+83,7,Is this an animal that lives on a farm?,no,dog
+84,7,Is this a dangerous animal to humans?,no,dog
+85,7,Is it an animal that lives in homes?,yes,dog
+86,7,Is it a dog?,win,dog
+87,8,Is it an animal?,no,shawarma
+88,8,Is it an object?,yes,shawarma
+89,8,Is it something that is in houses?,yes,shawarma
+90,8,Is it related to music?,no,shawarma
+91,8,Is it related to food?,yes,shawarma
+92,8,Is it a type of food?,yes,shawarma
+93,8,Is it vegetarian?,no,shawarma
+94,8,Is it chicken?,no,shawarma
+95,8,Is it beef?,no,shawarma
+96,8,Is it liquid?,no,shawarma
+97,8,Is it an egg?,no,shawarma
+98,8,Is it fish?,no,shawarma
+99,8,Is it pork?,no,shawarma
+100,8,Is it meat?,yes,shawarma
+101,8,Is it shawarma?,win,shawarma
+102,9,Is it an object?,yes,bandaid
+103,9,Is it human made?,yes,bandaid
+104,9,Is it in houses?,yes,bandaid
+105,9,Is it an electrical thing?,no,bandaid
+106,9,Is it related to food?,no,bandaid
+107,9,Is it related to kitchen?,no,bandaid
+108,9,Is it something you can sit on?,no,bandaid
+109,9,Is it something that literally every house has?,yes,bandaid
+110,9,Is it a sink?,no,bandaid
+111,9,Is it a toilet?,no,bandaid
+112,9,Is it something I can find in a salon?,no,bandaid
+113,9,Is it inside the walls?,no,bandaid
+114,9,Is it something you use on a daily basis?,no,bandaid
+115,9,Is it something that both genders use?,yes,bandaid
+116,9,Is it related to taking a shower?,no,bandaid
+117,9,Is it bigger than a football?,no,bandaid
+118,9,Is it related to cleaning?,no,bandaid
+119,9,Is it a floor?,no,bandaid
+120,9,Is it a roof?,no,bandaid
+121,9,Is it a smartphone?,no,bandaid
+122,10,Is it an object?,no,Michael Jackson
+123,10,Is it a human?,yes,Michael Jackson
+124,10,Is it someone I know?,yes,Michael Jackson
+125,10,Is it a friend of mine?,no,Michael Jackson
+126,10,Is it a celebrity?,yes,Michael Jackson
+127,10,Is he related to the entertainment industry?,yes,Michael Jackson
+128,10,Is he related to music?,yes,Michael Jackson
+129,10,Is he based in Israel?,no,Michael Jackson
+130,10,Does he make pop music?,yes,Michael Jackson
+131,10,Is he between 20 to 40 years old?,no,Michael Jackson
+132,10,Is he alive?,no,Michael Jackson
+133,10,Is he bald?,no,Michael Jackson
+134,10,Is he white?,yes,Michael Jackson
+135,10,Is it Michael Jackson?,win,Michael Jackson
+136,11,Is it an object?,yes,monitor
+137,11,Is it something you can find in houses?,yes,monitor
+138,11,Is it white?,no,monitor
+139,11,Is it heavy?,no,monitor
+140,11,Is it running on electricity?,yes,monitor
+141,11,Is it a fan?,no,monitor
+142,11,Is it possible to enter the internet through it?,no,monitor
+143,11,Is it below 5 letters word?,no,monitor
+144,11,Is it a TV?,no,monitor
+145,11,Is it a microwave?,no,monitor
+146,11,Is it something you make food with?,no,monitor
+147,11,Is it a vacuum cleaner?,no,monitor
+148,11,Is it in the bathroom?,no,monitor
+149,11,Is it a lamp?,no,monitor
+150,11,Is it speakers?,no,monitor
+151,11,Is it a charger?,no,monitor
+152,11,Is it a guitar?,no,monitor
+153,11,Is it a monitor?,win,monitor
+154,12,Is it an object?,yes,ring binder
+155,12,Is it in houses?,yes,ring binder
+156,12,Is it an electrical device?,no,ring binder
+157,12,Is it related to food?,no,ring binder
+158,12,Is it related to cleaning?,no,ring binder
+159,12,Does it have a particular smell?,no,ring binder
+160,12,Is it made of plastic?,yes,ring binder
+161,12,Is it something heavy?,no,ring binder
+162,12,Is it used on a daily basis?,no,ring binder
+163,12,Is it a toy?,no,ring binder
+164,12,Is it related to hygiene?,no,ring binder
+165,12,Is it a tool?,yes,ring binder
+166,12,Is it a hand-tool?,no,ring binder
+167,12,Is it something everyone uses?,no,ring binder
+168,12,Is it a notebook?,no,ring binder
+169,12,Is it a board?,no,ring binder
+170,12,Is it in a particular color?,no,ring binder
+171,12,Is it something I can find in a bedroom?,no,ring binder
+172,12,Is it something I can find in a bathroom?,no,ring binder
+173,12,Is it a door knob?,no,ring binder
+174,13,Is it alive?,no,astroid
+175,13,Is it growing?,no,astroid
+176,13,Is it something in this room?,no,astroid
+177,13,Is it outside?,yes,astroid
+178,13,Can it be inside?,no,astroid
+179,13,Do you cook with it?,no,astroid
+180,13,Is it something humans use?,no,astroid
+181,13,Is it some part of nature?,yes,astroid
+182,13,Is it something in space?,yes,astroid
+183,13,Is it the moon?,no,astroid
+184,13,Is it a star?,no,astroid
+185,13,Do I build it?,no,astroid
+186,13,Is it an asteroid?,win,astroid
+187,14,Is it an electrical appliance?,no,necklace
+188,14,Is it something that exists in most households?,yes,necklace
+189,14,Is it a piece of furniture?,no,necklace
+190,14,Is it something that is physically used to perform a task?,no,necklace
+191,14,Is it an ornamental object?,yes,necklace
+192,14,Is it made out of plastic?,no,necklace
+193,14,Is it bigger than a dining plate?,no,necklace
+194,14,Does it usually have a specific color?,no,necklace
+195,14,Is it something worn on your body?,yes,necklace
+196,14,Is it a ring?,no,necklace
+197,14,Is it worn around your neck?,yes,necklace
+198,14,Is it a necklace?,win,necklace
+199,15,Is it alive ?,No,bicycle
+200,15,Is it an object ?,Yes,bicycle
+201,15,Is it an object I have ?,No,bicycle
+202,15,Is it an object useful to men ?,Yes,bicycle
+203,15,Is it an object someone I know has ?,No,bicycle
+204,15,Is it an object I ever saw ?,No,bicycle
+205,15,Is it an object used for work ?,No,bicycle
+206,15,Is it an object used for fashion ?,No,bicycle
+207,15,Is it an object used for fun ?,Yes,bicycle
+208,15,Would I want to acquire such object ?,Yes,bicycle
+209,15,Would such object be used for sport ?,No,bicycle
+210,15,Would such object be used for running ?,No,bicycle
+211,15,Would such object be used for biking ?,Yes,bicycle
+212,15,Is this object used for safety in biking ?,No,bicycle
+213,15,Is this object a bicycle ?,win,bicycle
+214,16,Is it an animal?,No,bagel
+215,16,Is it a plant?,No,bagel
+216,16,Is it big?,No,bagel
+217,16,Is it a game?,No,bagel
+218,16,Is it electric?,No,bagel
+219,16,Is it artificial?,Yes,bagel
+220,16,Is it a tool?,No,bagel
+221,16,Is it decorative?,No,bagel
+222,16,Is it food?,Yes,bagel
+223,16,Is it dessert?,Yes,bagel
+224,16,Is it chocolate?,No,bagel
+225,16,Is it Malabi?,No,bagel
+226,16,Is it cold?,No,bagel
+227,16,Is it fried?,No,bagel
+228,16,Is it baked?,Yes,bagel
+229,16,Is it cake?,No,bagel
+230,16,Is it fruit?,No,bagel
+231,16,Is it a bagel?,win,bagel
+232,17,Is it in the house?,No,chewing gum
+233,17,Is it an animal?,No,chewing gum
+234,17,Is it a plant?,No,chewing gum
+235,17,Is it food?,Yes,chewing gum
+236,17,Is it fruit?,No,chewing gum
+237,17,Is it a snack?,Yes,chewing gum
+238,17,Is it salty?,No,chewing gum
+239,17,Is it sweet?,Yes,chewing gum
+240,17,Is it dairy?,No,chewing gum
+241,17,Is it baked?,No,chewing gum
+242,17,Is it fried?,No,chewing gum
+243,17,Is it a type of candy?,Yes,chewing gum
+244,17,Is it chewing gum?,win,chewing gum
+245,18,Is it something you can touch?,yes,table
+246,18,Is it something you can lift?,yes,table
+247,18,Can you find it in a house?,yes,table
+248,18,Is it in the living room?,yes,table
+249,18,Is it an electrical appliance?,no,table
+250,18,Is it a piece of furniture?,yes,table
+251,18,Is it some something you put stuff on?,yes,table
+252,18,Is it a table?,win,table
