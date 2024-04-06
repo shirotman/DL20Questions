@@ -90,7 +90,7 @@ user_input = input("clips dataset or friends?: ")
 if user_input== "clips":
     data = get_preprocessed_20Q_dataset()
 elif user_input== "friends":
-    data_train = load_dataset('csv', data_files="20q_friends.csv")
+    data = load_dataset('csv', data_files="20q_friends.csv")
 
 
 if user_input== "clips":
@@ -99,7 +99,7 @@ if user_input== "clips":
     data_tensor = data_train.map(lambda examples: {'input_ids': torch.tensor(examples['input_ids']), 'attention_mask': torch.tensor(examples['attention_mask'])})
     data_tensor = data_tensor.remove_columns(['subject','question','label_fine_grained','prediction'])
 elif user_input== "friends":
-    data_train = data_train.map(merge_columns_friends)
+    data_train = data['train'].map(merge_columns_friends)
     data_train = data_train.map(lambda samples: tokenizer(samples['prediction'], truncation=True, padding='max_length', max_length=512), batched=True)
     data_tensor = data_train.map(lambda examples: {'input_ids': torch.tensor(examples['input_ids']), 'attention_mask': torch.tensor(examples['attention_mask'])})
     data_tensor = data_tensor.remove_columns(['question_num','game_num','question','answer','prediction', 'ground_truth'])
