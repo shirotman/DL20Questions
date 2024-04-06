@@ -3,7 +3,10 @@ from peft import LoraConfig, get_peft_model, TaskType
 import torch
 import numpy as np
 import evaluate
-from preprocess_dataset import get_preprocessed_20Q_dataset
+import os
+import sys
+sys.path.insert(0, '..')
+from utils.preprocess_dataset import get_preprocessed_20Q_dataset
 
 torch.cuda.empty_cache()
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -13,9 +16,6 @@ dataset = get_preprocessed_20Q_dataset()
 model_name='google/flan-t5-large'
 original_model = AutoModelForSeq2SeqLM.from_pretrained(model_name, torch_dtype=torch.bfloat16).to(device)
 tokenizer = T5Tokenizer.from_pretrained(model_name)
-
-dash_line = '-'.join('' for x in range(100))
-
 
 def tokenize_function(example):
     start_prompt = 'Answer the question below:\nI am playing a guessing game where the answer is an object from the real world. If '
@@ -43,7 +43,7 @@ lora_config = LoraConfig(
 peft_model = get_peft_model(original_model, lora_config).to(device)
 
 # Train PEFT Adapter
-output_dir = f'./peft-object-identification-training'
+output_dir = os.path.join("..","fine-tuned-models","peft-object-identification-training")
 
 peft_training_args = Seq2SeqTrainingArguments(
     output_dir=output_dir,
@@ -109,6 +109,7 @@ tokenizer.save_pretrained(peft_model_path)
 #     peft_model_text_output = tokenizer.decode(peft_model_outputs[0], skip_special_tokens=True)
 #     peft_t_model_outputs = peft_t_model.generate(input_ids=input_ids, generation_config=GenerationConfig(max_new_tokens=15, num_beams=1))
 #     peft_t_model_text_output = tokenizer.decode(peft_t_model_outputs[0], skip_special_tokens=True)
+#     dash_line = '-'.join('' for x in range(100))
 #     print(prompt)
 #     print(dash_line)
 #     print(f'GIVEN OBJECT:\n{object}')
