@@ -290,3 +290,45 @@ question_num,game_num,question,answer,ground_truth
 288,20,Is it bee-related?,Yes,honey
 289,20,Can you spill it?,Yes,honey
 290,20,Is it honey?,win,honey
+291,21,Is it edible?,No,train
+292,21,Is it an animal?,No,train
+293,21,Is it made from sand?,No,train
+294,21,Do we use it at home?,No,train
+295,21,Can you use it with your friends?,Yes,train
+296,21,Do you have it at home?,no,train
+297,21,Is it a building?,No,train
+298,21,Is it static?,No,train
+299,21,Is it a vehicle?,Yes,train
+300,21,Is it noisy?,Yes,train
+301,21,Does it fly?,No,train
+302,21,Does it sail?,No,train
+303,21,Is it a bus?,No,train
+304,21,Is it driven on a road?,No,train
+305,21,Does it have a railway?,Yes,train
+306,21,Is it a train?,win,train
+307,22,Is it an Object?,No,apple
+308,22,Is it Human,No,apple
+309,22,Is it vegi?,Yes,apple
+310,22,Is it something to eat?,Yes,apple
+311,22,Is it a fruit?,Yes,apple
+312,22,Is it a summer fruit?,No,apple
+313,22,Is it larger than apple?,No,apple
+314,22,Is it an apple?,win,apple
+315,23,Is it alive?,No,computer mouse
+316,23,Is it an object?,Yes,computer mouse
+317,23,Is it made of wood?,No,computer mouse
+318,23,Is it portable?,Yes,computer mouse
+319,23,Does It have an engine?,No,computer mouse
+320,23,Is it indoors?,Yes,computer mouse
+321,23,Is it a furniture?,No,computer mouse
+322,23,Is it an instrumnt?,Yes,computer mouse
+323,23,Is it in the kitchen?,No,computer mouse
+324,23,In the bathroom?,No,computer mouse
+325,23,Made of mattle?,No,computer mouse
+326,23,Made of paper?,No,computer mouse
+327,23,Made of glass?,No,computer mouse
+328,23,Made of plastic?,Yes,computer mouse
+329,23,Smaller than a book?,Yes,computer mouse
+330,23,Hanging on walls?,No,computer mouse
+331,23,Is it a laptop?,No,computer mouse
+332,23,Is it a computer mouse?,win,computer mouse
