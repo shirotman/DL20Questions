@@ -252,3 +252,41 @@ question_num,game_num,question,answer,ground_truth
 250,18,Is it a piece of furniture?,yes,table
 251,18,Is it some something you put stuff on?,yes,table
 252,18,Is it a table?,win,table
+253,19,Is it solid?,No,sea
+254,19,Is it green?,No,sea
+255,19,Is it an animal?,No,sea
+256,19,Does it have animals in it?,Yes,sea
+257,19,Is it jumpy?,No,sea
+258,19,Is in indoors?,No,sea
+259,19,Is it hand made?,No,sea
+260,19,Is it natural?,Yes,sea
+261,19,Is it big?,Yes,sea
+262,19,Is it accessible?,Yes,sea
+263,19,Is it blue?,Yes,sea
+264,19,Is it edible?,No,sea
+265,19,Is it a human being?,No,sea
+266,19,Is it deep?,Yes,sea
+267,19,Is it textile?,No,sea
+268,19,Is it a part of the body?,No,sea
+269,19,Is it wavy?,Yes,sea
+270,19,Can we swim in it?,Yes,sea
+271,19,Does every country have it?,No,sea
+272,19,Is it sea?,win,sea
+273,20,Is it a toy?,No,honey
+274,20,Is it an animal?,No,honey
+275,20,Do we wear it?,No,honey
+276,20,Is it flying?,No,honey
+277,20,Is it natural?,Yes,honey
+278,20,Is it a plant?,No,honey
+279,20,Is it soil?,No,honey
+280,20,Will you find it in the shower?,No,honey
+281,20,Is it wavy?,No,honey
+282,20,Is it edible?,Yes,honey
+283,20,Is it chicken-related?,No,honey
+284,20,Can you be allergic to it?,Yes,honey
+285,20,Is it grain?,No,honey
+286,20,Is it flower-related?,Yes,honey
+287,20,Is it poppy seed?,No,honey
+288,20,Is it bee-related?,Yes,honey
+289,20,Can you spill it?,Yes,honey
+290,20,Is it honey?,win,honey
