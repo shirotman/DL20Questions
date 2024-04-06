@@ -4,6 +4,7 @@ from peft import LoraConfig, get_peft_model
 from transformers import pipeline, set_seed
 from transformers import GPT2Tokenizer, GPT2Model
 from transformers import GPT2Config, GPT2LMHeadModel
+import os
 
 # Loading model, tokenizer and configuration
 configuration = GPT2Config()
@@ -21,7 +22,7 @@ config = LoraConfig(
 model = get_peft_model(model, config)
 tokenizer.add_special_tokens({'pad_token': '[PAD]'})
 model.resize_token_embeddings(len(tokenizer))
-model.load_state_dict(torch.load("./GPT2_ft2prompt_friends.pth"))
+model.load_state_dict(torch.load("./GPT2_ft2prompt.pth"))
 
 # Generating a question
 prompt = input("Insert a guess to prompt a question:")
