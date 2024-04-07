@@ -1,36 +1,34 @@
 {"subject": "lamp", "question": "Does it emit light?", "answer": "yes"}
 {"subject": "book", "question": "Is it made of glass?", "answer": "no"}
 {"subject": "umbrella", "question": "Do you use it indoors?", "answer": "no"}
-{"subject": "guitar", "question": "Is it a musical instrument?", "answer": "yes"}
+{"subject": "guitar", "question": "Is it used for watching movies?", "answer": "no"}
 {"subject": "shoe", "question": "Is it worn on the head?", "answer": "no"}
 {"subject": "mirror", "question": "Does it reflect your image?", "answer": "yes"}
 {"subject": "pillow", "question": "Is it edible?", "answer": "no"}
 {"subject": "phone", "question": "Can you make calls with it?", "answer": "yes"}
-{"subject": "hat", "question": "Is it worn on the feet?", "answer": "no"}
-{"subject": "camera", "question": "Does it capture images?", "answer": "yes"}
+{"subject": "mouse", "question": "Is it worn on the feet?", "answer": "no"}
+{"subject": "camera", "question": "Is it a phone app?", "answer": "yes"}
 {"subject": "watch", "question": "Is it used for measuring time?", "answer": "yes"}
 {"subject": "bicycle", "question": "Is it a mode of transportation?", "answer": "yes"}
 {"subject": "flower", "question": "Is it a living thing?", "answer": "yes"}
-{"subject": "keyboard", "question": "Is it part of a computer?", "answer": "yes"}
+{"subject": "umbrella", "question": "Is it part of a computer?", "answer": "no"}
 {"subject": "socks", "question": "Do you wear them on your hands?", "answer": "no"}
 {"subject": "wallet", "question": "Is it made of paper?", "answer": "no"}
-{"subject": "cup", "question": "Is it used for drinking?", "answer": "yes"}
+{"subject": "straw", "question": "Is it used for drinking?", "answer": "yes"}
 {"subject": "chair", "question": "Is it a piece of furniture?", "answer": "yes"}
 {"subject": "television", "question": "Does it display moving images?", "answer": "yes"}
 {"subject": "glasses", "question": "Do you wear them on your feet?", "answer": "no"}
-{"subject": "toothbrush", "question": "Is it used for cleaning?", "answer": "yes"}
+{"subject": "mop", "question": "Is it used for cleaning?", "answer": "yes"}
 {"subject": "bag", "question": "Is it worn on the head?", "answer": "no"}
-{"subject": "headphones", "question": "Is it used for listening to music?", "answer": "yes"}
 {"subject": "table", "question": "Is it a flat surface?", "answer": "yes"}
 {"subject": "scarf", "question": "Is it worn around the waist?", "answer": "no"}
 {"subject": "computer", "question": "Is it an electronic device?", "answer": "yes"}
 {"subject": "socks", "question": "Is it made of wood?", "answer": "no"}
-{"subject": "mirror", "question": "Does it magnify your reflection?", "answer": "no"}
 {"subject": "painting", "question": "Is it a form of art?", "answer": "yes"}
 {"subject": "fridge", "question": "Does it keep food cold?", "answer": "yes"}
 {"subject": "ring", "question": "Is it worn on the finger?", "answer": "yes"}
 {"subject": "lampshade", "question": "Is it made of fabric?", "answer": "yes"}
-{"subject": "socks", "question": "Is it used for writing?", "answer": "no"}
+{"subject": "soap", "question": "Is it used for writing?", "answer": "no"}
 {"subject": "basketball", "question": "Is it a sports equipment?", "answer": "yes"}
 {"subject": "mirror", "question": "Is it used for cooking?", "answer": "no"}
 {"subject": "gloves", "question": "Do you wear them on your feet?", "answer": "no"}
@@ -46,255 +44,257 @@
 {"subject": "shoes", "question": "Is it made of fabric?", "answer": "no"}
 {"subject": "wallet", "question": "Is it used for storing money?", "answer": "yes"}
 {"subject": "lamp", "question": "Does it have a bulb?", "answer": "yes"}
-{"subject": "book", "question": "Is it made of paper?", "answer": "yes"}
+{"subject": "diary", "question": "Is it made of paper?", "answer": "yes"}
 {"subject": "umbrella", "question": "Is it waterproof?", "answer": "yes"}
 {"subject": "guitar", "question": "Is it strummed?", "answer": "yes"}
-{"subject": "shoe", "question": "Is it worn on the feet?", "answer": "yes"}
-{"subject": "mirror", "question": "Does it reflect your image?", "answer": "yes"}
 {"subject": "pillow", "question": "Is it soft?", "answer": "yes"}
 {"subject": "phone", "question": "Can you send messages with it?", "answer": "yes"}
-{"subject": "hat", "question": "Is it worn on the head?", "answer": "yes"}
+{"subject": "hat", "question": "Can it move?", "answer": "no"}
 {"subject": "camera", "question": "Does it have a lens?", "answer": "yes"}
 {"subject": "watch", "question": "Does it tell time?", "answer": "yes"}
 {"subject": "bicycle", "question": "Does it have wheels?", "answer": "yes"}
 {"subject": "flower", "question": "Is it colorful?", "answer": "yes"}
 {"subject": "keyboard", "question": "Is it part of a computer?", "answer": "yes"}
-{"subject": "socks", "question": "Do you wear them on your hands?", "answer": "no"}
+{"subject": "pants", "question": "Do you wear it on your hands?", "answer": "no"}
 {"subject": "wallet", "question": "Is it made of leather?", "answer": "yes"}
 {"subject": "cup", "question": "Is it used for drinking?", "answer": "yes"}
 {"subject": "chair", "question": "Is it for sitting?", "answer": "yes"}
 {"subject": "television", "question": "Does it have speakers?", "answer": "yes"}
-{"subject": "glasses", "question": "Do you wear them on your face?", "answer": "yes"}
+{"subject": "glasses", "question": "Do you wear it on your face?", "answer": "yes"}
 {"subject": "toothbrush", "question": "Is it used for cleaning?", "answer": "yes"}
 {"subject": "bag", "question": "Is it used for carrying things?", "answer": "yes"}
-{"subject": "headphones", "question": "Is it used for listening to music?", "answer": "yes"}
-{"subject": "mirror", "question": "Is it used for grooming?", "answer": "yes"}
 {"subject": "pillow", "question": "Is it fluffy?", "answer": "yes"}
 {"subject": "phone", "question": "Does it have a touchscreen?", "answer": "yes"}
-{"subject": "hat", "question": "Is it worn on sunny days?", "answer": "yes"}
-{"subject": "camera", "question": "Does it have a viewfinder?", "answer": "yes"}
-{"subject": "watch", "question": "Is it worn on the wrist?", "answer": "yes"}
-{"subject": "bicycle", "question": "Does it have pedals?", "answer": "yes"}
+{"subject": "hat", "question": "Is it made of fabric?", "answer": "yes"}
+{"subject": "camera", "question": "Does it have a battery?", "answer": "yes"}
+{"subject": "bracelet", "question": "Is it worn on the wrist?", "answer": "yes"}
 {"subject": "flower", "question": "Does it bloom?", "answer": "yes"}
-{"subject": "keyboard", "question": "Is it part of a musical instrument?", "answer": "no"}
+{"subject": "bottle", "question": "Is it part of a musical instrument?", "answer": "no"}
 {"subject": "socks", "question": "Do you wear them on your ears?", "answer": "no"}
-{"subject": "wallet", "question": "Is it used for storing cards?", "answer": "yes"}
+{"subject": "wallet", "question": "Is it used for storing coins?", "answer": "yes"}
 {"subject": "cup", "question": "Is it used for holding liquids?", "answer": "yes"}
-{"subject": "chair", "question": "Is it made of wood?", "answer": "yes"}
-{"subject": "television", "question": "Does it have channels?", "answer": "yes"}
+{"subject": "table", "question": "Is it made of wood?", "answer": "yes"}
+{"subject": "radio", "question": "Does it have channels?", "answer": "yes"}
 {"subject": "glasses", "question": "Do you wear them on your nose?", "answer": "yes"}
 {"subject": "toothbrush", "question": "Is it used for oral hygiene?", "answer": "yes"}
 {"subject": "bag", "question": "Is it used for carrying groceries?", "answer": "yes"}
 {"subject": "headphones", "question": "Is it used for canceling noise?", "answer": "yes"}
-{"subject": "mirror", "question": "Does it have a wooden frame?", "answer": "no"}
-{"subject": "painting", "question": "Is it hung on walls?", "answer": "yes"}
-{"subject": "fridge", "question": "Does it have shelves?", "answer": "yes"}
-{"subject": "ring", "question": "Is it worn on the finger?", "answer": "yes"}
-{"subject": "lampshade", "question": "Is it made of glass?", "answer": "no"}
-{"subject": "socks", "question": "Is it used for writing?", "answer": "no"}
+{"subject": "mirror", "question": "Is it hung on walls?", "answer": "yes"}
+{"subject": "closet", "question": "Does it have shelves?", "answer": "yes"}
+{"subject": "chair", "question": "Is it made of glass?", "answer": "no"}
+{"subject": "stirring wheel", "question": "Is it used for writing?", "answer": "no"}
 {"subject": "basketball", "question": "Is it inflated?", "answer": "yes"}
-{"subject": "mirror", "question": "Does it magnify your reflection?", "answer": "no"}
 {"subject": "painting", "question": "Is it a portrait?", "answer": "no"}
 {"subject": "gloves", "question": "Do you wear them on your hands?", "answer": "yes"}
-{"subject": "calendar", "question": "Does it have holidays marked?", "answer": "yes"}
-{"subject": "pillow", "question": "Is it used for sleeping?", "answer": "yes"}
-{"subject": "teapot", "question": "Is it used for brewing coffee?", "answer": "no"}
-{"subject": "guitar", "question": "Is it made of plastic?", "answer": "no"}
-{"subject": "shoe", "question": "Is it worn on the feet?", "answer": "yes"}
+{"subject": "calendar", "question": "Is it made from paper?", "answer": "yes"}
+{"subject": "blanket", "question": "Is it used for sleeping?", "answer": "yes"}
+{"subject": "fridge", "question": "Is it used for brewing coffee?", "answer": "no"}
+{"subject": "rainbow", "question": "Is it made of plastic?", "answer": "no"}
 {"subject": "mirror", "question": "Does it have a wooden frame?", "answer": "yes"}
-{"subject": "pillow", "question": "Is it used for sitting?", "answer": "no"}
-{"subject": "television", "question": "Does it have speakers?", "answer": "yes"}
-{"subject": "glasses", "question": "Do you wear them on your face?", "answer": "yes"}
-{"subject": "toothbrush", "question": "Is it used for cleaning teeth?", "answer": "yes"}
+{"subject": "pillow", "question": "Is it used for cleaning?", "answer": "no"}
+{"subject": "cellphone", "question": "Does it have speakers?", "answer": "yes"}
+{"subject": "glasses", "question": "Is it breakable?", "answer": "yes"}
+{"subject": "toothפשדאק", "question": "Is it used for cleaning teeth?", "answer": "yes"}
 {"subject": "bag", "question": "Is it used for carrying books?", "answer": "yes"}
 {"subject": "headphones", "question": "Is it used for listening to podcasts?", "answer": "yes"}
 {"subject": "mirror", "question": "Is it used for grooming?", "answer": "yes"}
-{"subject": "pillow", "question": "Is it fluffy?", "answer": "yes"}
-{"subject": "phone", "question": "Does it have a touchscreen?", "answer": "yes"}
+{"subject": "teddybear", "question": "Is it fluffy?", "answer": "yes"}
+{"subject": "mold", "question": "Does it have a touchscreen?", "answer": "yes"}
 {"subject": "hat", "question": "Is it worn on sunny days?", "answer": "yes"}
 {"subject": "camera", "question": "Does it have a viewfinder?", "answer": "yes"}
 {"subject": "watch", "question": "Is it worn on the wrist?", "answer": "yes"}
 {"subject": "bicycle", "question": "Does it have pedals?", "answer": "yes"}
-{"subject": "flower", "question": "Does it bloom?", "answer": "yes"}
+{"subject": "flower", "question": "Is it a plant?", "answer": "yes"}
 {"subject": "keyboard", "question": "Is it part of a musical instrument?", "answer": "no"}
-{"subject": "socks", "question": "Do you wear them on your ears?", "answer": "no"}
+{"subject": "socks", "question": "Do you wear it on your head?", "answer": "no"}
 {"subject": "wallet", "question": "Is it used for storing cards?", "answer": "yes"}
-{"subject": "cup", "question": "Is it used for holding liquids?", "answer": "yes"}
+{"subject": "bottle", "question": "Is it used for holding liquids?", "answer": "yes"}
 {"subject": "chair", "question": "Is it made of wood?", "answer": "yes"}
 {"subject": "television", "question": "Does it have channels?", "answer": "yes"}
-{"subject": "glasses", "question": "Do you wear them on your nose?", "answer": "yes"}
+{"subject": "glasses", "question": "Is it intended for daily use?", "answer": "yes"}
 {"subject": "toothbrush", "question": "Is it used for cleaning teeth?", "answer": "yes"}
-{"subject": "bag", "question": "Is it used for carrying groceries?", "answer": "yes"}
-{"subject": "headphones", "question": "Is it used for listening to podcasts?", "answer": "yes"}
+{"subject": "shopping cart", "question": "Is it used for carrying groceries?", "answer": "yes"}
+{"subject": "headphones", "question": "Can you buy it?", "answer": "yes"}
 {"subject": "mirror", "question": "Does it have a wooden frame?", "answer": "no"}
 {"subject": "painting", "question": "Is it hung on walls?", "answer": "yes"}
 {"subject": "fridge", "question": "Does it have shelves?", "answer": "yes"}
-{"subject": "ring", "question": "Is it worn on the finger?", "answer": "yes"}
+{"subject": "bandaid", "question": "Is it used on the finger?", "answer": "yes"}
 {"subject": "lampshade", "question": "Is it made of glass?", "answer": "no"}
 {"subject": "socks", "question": "Is it used for writing?", "answer": "no"}
-{"subject": "basketball", "question": "Is it inflated?", "answer": "yes"}
+{"subject": "baloon", "question": "Is it inflated?", "answer": "yes"}
 {"subject": "mirror", "question": "Does it magnify your reflection?", "answer": "no"}
-{"subject": "painting", "question": "Is it a portrait?", "answer": "no"}
-{"subject": "gloves", "question": "Do you wear them on your hands?", "answer": "yes"}
+{"subject": "painting", "question": "Is it a drink?", "answer": "no"}
+{"subject": "pants", "question": "Do you wear them on your legs?", "answer": "yes"}
 {"subject": "calendar", "question": "Does it have holidays marked?", "answer": "yes"}
 {"subject": "pillow", "question": "Is it used for sleeping?", "answer": "yes"}
 {"subject": "teapot", "question": "Is it used for brewing coffee?", "answer": "no"}
-{"subject": "guitar", "question": "Is it made of plastic?", "answer": "no"}
-{"subject": "shoe", "question": "Is it worn on the feet?", "answer": "yes"}
-{"subject": "mirror", "question": "Does it have a wooden frame?", "answer": "yes"}
-{"subject": "pillow", "question": "Is it used for sitting?", "answer": "no"}
-{"subject": "television", "question": "Does it have speakers?", "answer": "yes"}
+{"subject": "coffee", "question": "Is it made of plastic?", "answer": "no"}
+{"subject": "shoe", "question": "Is it used outside?", "answer": "yes"}
+{"subject": "mirror", "question": "Can it break?", "answer": "yes"}
+{"subject": "glasses", "question": "Is it used for sitting?", "answer": "no"}
+{"subject": "whiteboard", "question": "Does it have speakers?", "answer": "no"}
 {"subject": "glasses", "question": "Do you wear them on your face?", "answer": "yes"}
-{"subject": "toothbrush", "question": "Is it used for cleaning teeth?", "answer": "yes"}
-{"subject": "bag", "question": "Is it used for carrying books?", "answer": "yes"}
+{"subject": "sponge", "question": "Is it used for cleaning dishes?", "answer": "yes"}
+{"subject": "bag", "question": "Is it used for carrying babies?", "answer": "no"}
 {"subject": "headphones", "question": "Is it used for listening to music?", "answer": "yes"}
-{"subject": "Pineapple", "question": "Is it a tropical fruit?", "answer": "yes"}
-{"subject": "Microscope", "question": "Is it used for magnification?", "answer": "yes"}
+{"subject": "pineapple", "question": "Is it a tropical fruit?", "answer": "yes"}
+{"subject": "microscope", "question": "Is it used for magnification?", "answer": "yes"}
 {"subject": "Sushi", "question": "Is it a Japanese dish?", "answer": "yes"}
-{"subject": "Helicopter", "question": "Does it have rotor blades?", "answer": "yes"}
+{"subject": "helicopter", "question": "Does it have rotor blades?", "answer": "yes"}
 {"subject": "Eiffel Tower", "question": "Is it a famous landmark?", "answer": "yes"}
-{"subject": "Cactus", "question": "Does it thrive in arid environments?", "answer": "yes"}
-{"subject": "Harmonica", "question": "Is it a musical instrument?", "answer": "yes"}
-{"subject": "Chameleon", "question": "Can it change color?", "answer": "yes"}
-{"subject": "Sundial", "question": "Does it tell time using the sun?", "answer": "yes"}
-{"subject": "Origami", "question": "Is it the art of paper folding?", "answer": "yes"}
-{"subject": "Penguin", "question": "Does it primarily live in cold climates?", "answer": "yes"}
-{"subject": "Saxophone", "question": "Is it a brass instrument?", "answer": "no"}
+{"subject": "cactus", "question": "Does it thrive in arid environments?", "answer": "yes"}
+{"subject": "harmonica", "question": "Is it a musical instrument?", "answer": "yes"}
+{"subject": "baby", "question": "Does it make any sound?", "answer": "yes"}
+{"subject": "bottle", "question": "Can you drink from it?", "answer": "yes"}
+{"subject": "penguin", "question": "Is it black and white?", "answer": "yes"}
+{"subject": "guitar", "question": "Is it a music instrument?", "answer": "yes"}
+{"subject": "Sushi", "question": "Is it edible?", "answer": "yes"}
+{"subject": "soda", "question": "Is it a type of coffee?", "answer": "no"}
+{"subject": "kangaroo", "question": "Is it a marsupial?", "answer": "yes"}
+{"subject": "mug", "question": "Does it tell time?", "answer": "no"}
+{"subject": "door", "question": "Can you open it?", "answer": "yes"}
+{"subject": "ballet", "question": "Is it a music genre?", "answer": "no"}
+{"subject": "camel", "question": "Does it thrive in arid environments?", "answer": "yes"}
+{"subject": "flute", "question": "Is it a musical instrument?", "answer": "yes"}
+{"subject": "rsculpture", "question": "Is it a three-dimensional art form?", "answer": "yes"}
+{"subject": "galaxy", "question": "Is it a collection of stars?", "answer": "yes"}
+{"subject": "Igloo", "question": "Can you find it in cold climates?", "answer": "yes"}
+{"subject": "table", "question": "Is it a brass instrument?", "answer": "no"}
 {"subject": "Sushi", "question": "Is it made with raw fish?", "answer": "yes"}
 {"subject": "Bonsai Tree", "question": "Is it a miniature plant?", "answer": "yes"}
-{"subject": "Tornado", "question": "Is it a natural disaster?", "answer": "yes"}
-{"subject": "Cappuccino", "question": "Is it a type of coffee?", "answer": "yes"}
-{"subject": "Kangaroo", "question": "Is it a marsupial?", "answer": "yes"}
-{"subject": "Sundial", "question": "Does it tell time using the sun?", "answer": "yes"}
-{"subject": "Chameleon", "question": "Can it change color?", "answer": "yes"}
-{"subject": "Origami", "question": "Is it the art of paper folding?", "answer": "yes"}
-{"subject": "Ballet", "question": "Is it a form of dance?", "answer": "yes"}
-{"subject": "Cactus", "question": "Does it thrive in arid environments?", "answer": "yes"}
-{"subject": "Harmonica", "question": "Is it a musical instrument?", "answer": "yes"}
-{"subject": "Sculpture", "question": "Is it a three-dimensional art form?", "answer": "yes"}
-{"subject": "Galaxy", "question": "Is it a collection of stars?", "answer": "yes"}
-{"subject": "Penguin", "question": "Does it primarily live in cold climates?", "answer": "yes"}
-{"subject": "Saxophone", "question": "Is it a brass instrument?", "answer": "no"}
-{"subject": "Sushi", "question": "Is it made with raw fish?", "answer": "yes"}
-{"subject": "Bonsai Tree", "question": "Is it a miniature plant?", "answer": "yes"}
-{"subject": "Tornado", "question": "Is it a natural disaster?", "answer": "yes"}
-{"subject": "Cappuccino", "question": "Is it a type of coffee?", "answer": "yes"}
-{"subject": "Kangaroo", "question": "Is it a marsupial?", "answer": "yes"}
-{"subject": "Sundial", "question": "Does it tell time using the sun?", "answer": "yes"}
-{"subject": "Chameleon", "question": "Can it change color?", "answer": "yes"}
-{"subject": "Origami", "question": "Is it the art of paper folding?", "answer": "yes"}
-{"subject": "Ballet", "question": "Is it a form of dance?", "answer": "yes"}
-{"subject": "Cactus", "question": "Does it thrive in arid environments?", "answer": "yes"}
-{"subject": "Harmonica", "question": "Is it a musical instrument?", "answer": "yes"}
-{"subject": "Sculpture", "question": "Is it a three-dimensional art form?", "answer": "yes"}
-{"subject": "Galaxy", "question": "Is it a collection of stars?", "answer": "yes"}
+{"subject": "tornado", "question": "Is it a natural disaster?", "answer": "yes"}
+{"subject": "cappuccino", "question": "Is it originally Italian?", "answer": "yes"}
+{"subject": "sundial", "question": "Is it solid?", "answer": "yes"}
+{"subject": "chameleon", "question": "Can it change color?", "answer": "yes"}
+{"subject": "origami", "question": "Is it the art of paper folding?", "answer": "yes"}
+{"subject": "ballet", "question": "Is it a form of dance?", "answer": "yes"}
+{"subject": "guitar", "question": "Is it a musical instrument?", "answer": "yes"}
+{"subject": "rsculpture", "question": "Can it fly?", "answer": "no"}
 {"subject": "Sushi Roll", "question": "Is it wrapped in seaweed?", "answer": "yes"}
-{"subject": "Cathedral", "question": "Is it a religious building?", "answer": "yes"}
-{"subject": "Piano", "question": "Is it a keyboard instrument?", "answer": "yes"}
-{"subject": "Rainbow", "question": "Does it appear after rain?", "answer": "yes"}
-{"subject": "Volcano", "question": "Does it erupt with lava?", "answer": "yes"}
+{"subject": "cathedral", "question": "Is it a religious building?", "answer": "yes"}
+{"subject": "piano", "question": "Is it a keyboard instrument?", "answer": "yes"}
+{"subject": "rainbow", "question": "Does it appear after rain?", "answer": "yes"}
+{"subject": "volcano", "question": "Does it erupt with lava?", "answer": "yes"}
 {"subject": "Comet", "question": "Does it have a tail?", "answer": "yes"}
 {"subject": "Cello", "question": "Is it a string instrument?", "answer": "yes"}
-{"subject": "Toucan", "question": "Is it a colorful bird?", "answer": "yes"}
-{"subject": "Sculpture", "question": "Is it made of marble?", "answer": "no"}
-{"subject": "Rainforest", "question": "Is it a dense jungle?", "answer": "yes"}
-{"subject": "Candle", "question": "Does it produce light?", "answer": "yes"}
+{"subject": "toucan", "question": "Is it a colorful bird?", "answer": "yes"}
+{"subject": "rsculpture", "question": "Is it made of marble?", "answer": "no"}
+{"subject": "rainforest", "question": "Is it a dense jungle?", "answer": "yes"}
+{"subject": "candle", "question": "Does it produce light?", "answer": "yes"}
 {"subject": "Coral Reef", "question": "Is it found underwater?", "answer": "yes"}
-{"subject": "Harbor", "question": "Is it a place for docking ships?", "answer": "yes"}
-{"subject": "Cocktail", "question": "Is it a mixed drink?", "answer": "yes"}
-{"subject": "Tornado", "question": "Does it rotate violently?", "answer": "yes"}{"subject": "Rainbow", "question": "Is it formed by sunlight passing through raindrops?", "answer": "yes"}
+{"subject": "harbor", "question": "Is it a place for docking ships?", "answer": "yes"}
+{"subject": "cocktail", "question": "Is it a mixed drink?", "answer": "yes"}
+{"subject": "tornado", "question": "Does it rotate violently?", "answer": "yes"}{"subject": "rainbow", "question": "Is it formed by sunlight passing through raindrops?", "answer": "yes"}
 {"subject": "Cello", "question": "Is it played with a bow?", "answer": "yes"}
-{"subject": "Toucan", "question": "Does it have a colorful beak?", "answer": "yes"}
-{"subject": "Sculpture", "question": "Is it made of marble?", "answer": "no"}
-{"subject": "Rainforest", "question": "Is it a dense jungle?", "answer": "yes"}
-{"subject": "Candle", "question": "Does it produce light?", "answer": "yes"}
-{"subject": "Coral Reef", "question": "Is it found underwater?", "answer": "yes"}
-{"subject": "Harbor", "question": "Is it a place for docking ships?", "answer": "yes"}
-{"subject": "Cocktail", "question": "Is it a mixed drink?", "answer": "yes"}
-{"subject": "Tornado", "question": "Does it rotate violently?", "answer": "yes"}
-{"subject": "Penguin", "question": "Does it primarily live in cold climates?", "answer": "yes"}
+{"subject": "toucan", "question": "Does it have a colorful beak?", "answer": "yes"}
+{"subject": "backpack", "question": "Is it made of marble?", "answer": "no"}
+{"subject": "rainforest", "question": "Is it used as a tool?", "answer": "yes"}
+{"subject": "candle", "question": "Does it melt?", "answer": "yes"}
+{"subject": "harbor", "question": "Is it a fruit?", "answer": "no"}
+{"subject": "cocktail", "question": "Is it liquid?", "answer": "yes"}
+{"subject": "penguin", "question": "Does it primarily live in cold climates?", "answer": "yes"}
 {"subject": "Saxophone", "question": "Is it a brass instrument?", "answer": "no"}
-{"subject": "Sushi", "question": "Is it made with raw fish?", "answer": "yes"}
-{"subject": "Bonsai Tree", "question": "Is it a miniature plant?", "answer": "yes"}
-{"subject": "Tornado", "question": "Is it a natural disaster?", "answer": "yes"}
-{"subject": "Cappuccino", "question": "Is it a type of coffee?", "answer": "yes"}
-{"subject": "Kangaroo", "question": "Is it a marsupial?", "answer": "yes"}
-{"subject": "Sundial", "question": "Does it tell time using the sun?", "answer": "yes"}
-{"subject": "Chameleon", "question": "Can it change color?", "answer": "yes"}
-{"subject": "Origami", "question": "Is it the art of paper folding?", "answer": "yes"}
-{"subject": "Rainbow", "question": "Is it black and white?", "answer": "no"}
-{"subject": "Cello", "question": "Is it a wind instrument?", "answer": "no"}
-{"subject": "Toucan", "question": "Does it fly backward?", "answer": "no"}
-{"subject": "Sculpture", "question": "Is it made of water?", "answer": "no"}
-{"subject": "Rainforest", "question": "Is it a desert?", "answer": "no"}
-{"subject": "Candle", "question": "Is it used for cooking?", "answer": "no"}
+{"subject": "Sushi", "question": "Does it include rice?", "answer": "yes"}
+{"subject": "tornado", "question": "Is it a tool?", "answer": "no"}
+{"subject": "cappuccino", "question": "Is it a type of coffee?", "answer": "yes"}
+{"subject": "kangaroo", "question": "Does it have a pocket", "answer": "yes"}
+{"subject": "sundial", "question": "Does it tell time using the sun?", "answer": "yes"}
+{"subject": "rainbow", "question": "Can you touch it?", "answer": "no"}
+{"subject": "drum", "question": "Is it a wind instrument?", "answer": "no"}
+{"subject": "soap", "question": "Does it fly?", "answer": "no"}
+{"subject": "newspaper", "question": "Is it made of water?", "answer": "no"}
+{"subject": "rainforest", "question": "Is it a place?", "answer": "yes"}
+{"subject": "tree", "question": "Is it used for cooking?", "answer": "no"}
 {"subject": "Coral Reef", "question": "Is it found in deserts?", "answer": "no"}
-{"subject": "Harbor", "question": "Is it a place for launching rockets?", "answer": "no"}
-{"subject": "Cocktail", "question": "Is it a type of sandwich?", "answer": "no"}
-{"subject": "Tornado", "question": "Does it move slowly?", "answer": "no"}
-{"subject": "Penguin", "question": "Does it fly?", "answer": "no"}
+{"subject": "harbor", "question": "Is it a place for launching rockets?", "answer": "no"}
+{"subject": "cocktail", "question": "Is it a type of sandwich?", "answer": "no"}
+{"subject": "tornado", "question": "Does it move slowly?", "answer": "no"}
+{"subject": "penguin", "question": "Does it fly?", "answer": "no"}
 {"subject": "Saxophone", "question": "Is it a percussion instrument?", "answer": "no"}
 {"subject": "Sushi", "question": "Is it made with cooked fish?", "answer": "no"}
 {"subject": "Bonsai Tree", "question": "Is it a full-sized tree?", "answer": "no"}
-{"subject": "Tornado", "question": "Does it rotate clockwise?", "answer": "no"}
-{"subject": "Cappuccino", "question": "Is it a type of tea?", "answer": "no"}
-{"subject": "Kangaroo", "question": "Does it have a pouch?", "answer": "no"}
-{"subject": "Sundial", "question": "Does it require batteries?", "answer": "no"}
-{"subject": "Chameleon", "question": "Is it a reptile?", "answer": "no"}
-{"subject": "Origami", "question": "Is it a type of sculpture?", "answer": "no"}
+{"subject": "tornado", "question": "Does it rotate clockwise?", "answer": "no"}
+{"subject": "cappuccino", "question": "Is it a type of tea?", "answer": "no"}
+{"subject": "kangaroo", "question": "Does it have a pouch?", "answer": "no"}
+{"subject": "sundial", "question": "Does it require batteries?", "answer": "no"}
+{"subject": "chameleon", "question": "Is it a reptile?", "answer": "no"}
+{"subject": "origami", "question": "Is it a type of sculpture?", "answer": "no"}
 {"subject": "Hot Air Balloon", "question": "Is it used for underwater exploration?", "answer": "no"}
 {"subject": "Maple Tree", "question": "Does it bear fruit?", "answer": "no"}
-{"subject": "Compass", "question": "Is it a musical instrument?", "answer": "no"}
-{"subject": "Desert", "question": "Is it a cold and snowy region?", "answer": "no"}
-{"subject": "Piano", "question": "Is it a string instrument?", "answer": "no"}
-{"subject": "Raincoat", "question": "Is it worn in sunny weather?", "answer": "no"}
-{"subject": "Volcano", "question": "Does it erupt with water?", "answer": "no"}
-{"subject": "Tent", "question": "Is it made of glass?", "answer": "no"}
-{"subject": "Cactus", "question": "Does it require frequent watering?", "answer": "no"}
-{"subject": "Moon", "question": "Is it a natural satellite?", "answer": "no"}
-{"subject": "Apple", "question": "Is it a fruit?", "answer": "yes"}
-{"subject": "Chair", "question": "Is it used for sitting?", "answer": "yes"}
-{"subject": "Dog", "question": "Is it a mammal?", "answer": "yes"}
-{"subject": "Car", "question": "Does it have wheels?", "answer": "yes"}
-{"subject": "Book", "question": "Is it made of paper?", "answer": "yes"}
-{"subject": "Sun", "question": "Does it provide light?", "answer": "yes"}
-{"subject": "Shirt", "question": "Is it worn on the upper body?", "answer": "yes"}
-{"subject": "Table", "question": "Is it a piece of furniture?", "answer": "yes"}
-{"subject": "Cat", "question": "Is it a domestic animal?", "answer": "yes"}
-{"subject": "Bicycle", "question": "Does it have pedals?", "answer": "yes"}
-{"subject": "Clock", "question": "Does it tell time?", "answer": "yes"}
-{"subject": "Banana", "question": "Is it a tropical fruit?", "answer": "yes"}
-{"subject": "Hat", "question": "Is it worn on the head?", "answer": "yes"}
-{"subject": "Rain", "question": "Does it fall from the sky?", "answer": "yes"}
-{"subject": "Bed", "question": "Is it used for sleeping?", "answer": "yes"}
-{"subject": "Moon", "question": "Does it orbit the Earth?", "answer": "yes"}
-{"subject": "Shoe", "question": "Is it worn on the feet?", "answer": "yes"}
-{"subject": "Pizza", "question": "Is it a type of food?", "answer": "yes"}
-{"subject": "Window", "question": "Does it allow light to enter?", "answer": "yes"}
-{"subject": "Chair", "question": "Is it made of wood?", "answer": "yes"}
-{"subject": "Banana", "question": "Is it a vegetable?", "answer": "no"}
-{"subject": "Chair", "question": "Is it used for flying?", "answer": "no"}
-{"subject": "Dog", "question": "Does it meow?", "answer": "no"}
-{"subject": "Car", "question": "Does it have wings?", "answer": "no"}
-{"subject": "Book", "question": "Is it made of metal?", "answer": "no"}
-{"subject": "Sun", "question": "Does it orbit the Earth?", "answer": "no"}
-{"subject": "Shirt", "question": "Is it worn on the feet?", "answer": "no"}
-{"subject": "Table", "question": "Is it a type of fruit?", "answer": "no"}
-{"subject": "Cat", "question": "Is it a reptile?", "answer": "no"}
-{"subject": "Bicycle", "question": "Does it have pedals?", "answer": "yes"}
-{"subject": "Clock", "question": "Is it used for measuring temperature?", "answer": "no"}
-{"subject": "Apple", "question": "Is it a type of meat?", "answer": "no"}
-{"subject": "Hat", "question": "Is it worn on the feet?", "answer": "no"}
-{"subject": "Rain", "question": "Does it fall from the ground?", "answer": "no"}
-{"subject": "Bed", "question": "Is it used for cooking?", "answer": "no"}
-{"subject": "Moon", "question": "Does it have a solid surface?", "answer": "no"}
-{"subject": "Shoe", "question": "Is it used for writing?", "answer": "no"}
-{"subject": "Pizza", "question": "Is it a type of vegetable?", "answer": "no"}
-{"subject": "Window", "question": "Is it made of wood?", "answer": "no"}
-{"subject": "Chair", "question": "Is it a type of fruit?", "answer": "no"}
-{"subject": "Rainbow", "question": "Is it black and white?", "answer": "no"}
-{"subject": "Cello", "question": "Is it a wind instrument?", "answer": "no"}
-{"subject": "Toucan", "question": "Does it fly backward?", "answer": "no"}
-{"subject": "Sculpture", "question": "Is it made of water?", "answer": "no"}
-{"subject": "Rainforest", "question": "Is it a desert?", "answer": "no"}
-{"subject": "Candle", "question": "Is it used for cooking?", "answer": "no"}
+{"subject": "compass", "question": "Is it a musical instrument?", "answer": "no"}
+{"subject": "desert", "question": "Is it a cold and snowy region?", "answer": "no"}
+{"subject": "piano", "question": "Is it a string instrument?", "answer": "no"}
+{"subject": "raincoat", "question": "Is it worn in sunny weather?", "answer": "no"}
+{"subject": "volcano", "question": "Does it erupt with water?", "answer": "no"}
+{"subject": "tent", "question": "Is it made of glass?", "answer": "no"}
+{"subject": "cactus", "question": "Does it require frequent watering?", "answer": "no"}
+{"subject": "moon", "question": "Is it a natural satellite?", "answer": "no"}
+{"subject": "apple", "question": "Is it a fruit?", "answer": "yes"}
+{"subject": "chair", "question": "Is it used for sitting?", "answer": "yes"}
+{"subject": "dog", "question": "Is it a mammal?", "answer": "yes"}
+{"subject": "car", "question": "Does it have wheels?", "answer": "yes"}
+{"subject": "book", "question": "Is it made of paper?", "answer": "yes"}
+{"subject": "sun", "question": "Does it provide light?", "answer": "yes"}
+{"subject": "shirt", "question": "Is it worn on the upper body?", "answer": "yes"}
+{"subject": "table", "question": "Is it a piece of furniture?", "answer": "yes"}
+{"subject": "cat", "question": "Is it a domestic animal?", "answer": "yes"}
+{"subject": "clock", "question": "Does it tell time?", "answer": "yes"}
+{"subject": "banana", "question": "Is it a tropical fruit?", "answer": "yes"}
+{"subject": "hat", "question": "Is it worn on the head?", "answer": "yes"}
+{"subject": "rain", "question": "Does it fall from the sky?", "answer": "yes"}
+{"subject": "bed", "question": "Is it used for sleeping?", "answer": "yes"}
+{"subject": "moon", "question": "Does it orbit the Earth?", "answer": "yes"}
+{"subject": "sunshoe", "question": "Is it worn on the feet?", "answer": "yes"}
+{"subject": "pizza", "question": "Is it a type of food?", "answer": "yes"}
+{"subject": "window", "question": "Does it allow light to enter?", "answer": "yes"}
+{"subject": "chair", "question": "Is it a furniture?", "answer": "yes"}
+{"subject": "banana", "question": "Is it a vegetable?", "answer": "no"}
+{"subject": "chair", "question": "Is it used for flying?", "answer": "no"}
+{"subject": "dog", "question": "Does it meow?", "answer": "no"}
+{"subject": "car", "question": "Does it have wings?", "answer": "no"}
+{"subject": "book", "question": "Is it made of metal?", "answer": "no"}
+{"subject": "sun", "question": "Does it orbit the Earth?", "answer": "no"}
+{"subject": "shirt", "question": "Is it worn on the feet?", "answer": "no"}
+{"subject": "table", "question": "Is it a type of fruit?", "answer": "no"}
+{"subject": "cat", "question": "Is it a reptile?", "answer": "no"}
+{"subject": "clock", "question": "Is it used for measuring temperature?", "answer": "no"}
+{"subject": "apple", "question": "Is it a type of meat?", "answer": "no"}
+{"subject": "hat", "question": "Is it worn on the feet?", "answer": "no"}
+{"subject": "rain", "question": "Does it fall from the ground?", "answer": "no"}
+{"subject": "bed", "question": "Is it used for cooking?", "answer": "no"}
+{"subject": "moon", "question": "Does it have a solid surface?", "answer": "no"}
+{"subject": "sunshoe", "question": "Is it used for writing?", "answer": "no"}
+{"subject": "pizza", "question": "Is it a type of vegetable?", "answer": "no"}
+{"subject": "window", "question": "Is it made of wood?", "answer": "no"}
+{"subject": "chair", "question": "Is it a type of fruit?", "answer": "no"}
+{"subject": "rainbow", "question": "Is it black and white?", "answer": "no"}
+{"subject": "cello", "question": "Is it a wind instrument?", "answer": "no"}
+{"subject": "toucan", "question": "Does it fly backward?", "answer": "no"}
+{"subject": "rsculpture", "question": "Is it made of water?", "answer": "no"}
+{"subject": "rainforest", "question": "Is it a desert?", "answer": "no"}
+{"subject": "candle", "question": "Is it used for cooking?", "answer": "no"}
+{"subject": "clock", "question": "Does it display pictures?", "answer": "no"}
+{"subject": "pen", "question": "Can you store food in it?", "answer": "no"}
+{"subject": "wallet", "question": "Do you wear it on your clothes?", "answer": "yes"}
+{"subject": "key", "question": "Is it used for stirring liquids?", "answer": "no"}
+{"subject": "scissors", "question": "Do you use them for eating?", "answer": "no"}
+{"subject": "plate", "question": "Is it flexible?", "answer": "no"}
+{"subject": "mug", "question": "Is it for writing with?", "answer": "no"}
+{"subject": "spoon", "question": "Is it used for serving food?", "answer": "yes"}
+{"subject": "shoelace", "question": "Is it made of metal?", "answer": "no"}
+{"subject": "towel", "question": "Do you use it for cutting things?", "answer": "no"}
+{"subject": "Laptop", "question": "Is it used for cooking?", "answer": "no"}
+{"subject": "guitar", "question": "Is it a string instrument?", "answer": "yes"}
+{"subject": "sunglasses", "question": "Are they worn on the feet?", "answer": "no"}
+{"subject": "television", "question": "Does it have a screen?", "answer": "yes"}
+{"subject": "backpack", "question": "Is it heavy?", "answer": "yes"}
+{"subject": "umbrella", "question": "Is it used for keeping warm?", "answer": "no"}
+{"subject": "camera", "question": "Does it capture images?", "answer": "yes"}
+{"subject": "piano", "question": "Is it a wind instrument?", "answer": "no"}
+{"subject": "sneakers", "question": "Is it used for swimming?", "answer": "no"}
+{"subject": "watch", "question": "Does it have a band?", "answer": "yes"}
+{"subject": "scissors", "question": "Is it used for cutting paper?", "answer": "yes"}
+{"subject": "teapot", "question": "Is it used for baking?", "answer": "no"}
+{"subject": "window", "question": "Is it worn on the feet?", "answer": "no"}
+{"subject": "newspaper", "question": "Does it have pages?", "answer": "yes"}
+{"subject": "lake", "question": "Does it reflect your image?", "answer": "yes"}
