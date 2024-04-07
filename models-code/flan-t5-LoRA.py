@@ -83,7 +83,6 @@ tokenizer.save_pretrained(peft_model_path)
 
 # Uncomment following lines to print some samples for human evaluation
 
-# peft_t_model = peft_trainer.model.to(device)
 # peft_model = peft_model.to(device)
 # original_model = original_model.to(device)
 
@@ -105,10 +104,8 @@ tokenizer.save_pretrained(peft_model_path)
 #     original_model_outputs = original_model.generate(input_ids=input_ids, generation_config=GenerationConfig(max_new_tokens=15, num_beams=1)).to(device)
 #     original_model_text_output = tokenizer.decode(original_model_outputs[0], skip_special_tokens=True)
 
-#     peft_model_outputs = peft_model.generate(input_ids=input_ids, generation_config=GenerationConfig(max_new_tokens=15, num_beams=1))
+#     peft_model_outputs = peft_model.generate(input_ids=input_ids, generation_config=GenerationConfig(max_new_tokens=15, num_beams=1)).to(device)
 #     peft_model_text_output = tokenizer.decode(peft_model_outputs[0], skip_special_tokens=True)
-#     peft_t_model_outputs = peft_t_model.generate(input_ids=input_ids, generation_config=GenerationConfig(max_new_tokens=15, num_beams=1))
-#     peft_t_model_text_output = tokenizer.decode(peft_t_model_outputs[0], skip_special_tokens=True)
 #     dash_line = '-'.join('' for x in range(100))
 #     print(prompt)
 #     print(dash_line)
@@ -116,7 +113,6 @@ tokenizer.save_pretrained(peft_model_path)
 #     print(dash_line)
 #     print(f'ORIGINAL MODEL:\n{original_model_text_output}')
 #     print(dash_line)
-#     print(f'PEFT T MODEL: {peft_t_model_text_output}')
 #     print(f'PEFT MODEL: {peft_model_text_output}')
 #     print()
 
