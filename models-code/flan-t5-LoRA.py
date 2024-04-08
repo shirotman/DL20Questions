@@ -2,7 +2,6 @@ from transformers import AutoModelForSeq2SeqLM, T5Tokenizer, GenerationConfig, S
 from peft import LoraConfig, get_peft_model, TaskType
 import torch
 import numpy as np
-import evaluate
 import os
 import sys
 sys.path.insert(0, '..')
