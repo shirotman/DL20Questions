@@ -72,7 +72,6 @@ while most_probable_word != "?":
 print("The final text is:")
 print("Prediction = " + prompt + ". Is it" + question)
 
-
 #####################################
 "Creating a perplexity graph"
 #####################################
