@@ -15,6 +15,7 @@ DL20Questions is a repository for an implementation of a Natural Language Proces
 - **"home" directory**:
   - **game-flow.py**: This is the main script that uses the models and allows us to play the game with the artificial player.
   - **DL20Questions_Report.pdf**: Our final project report.
+  - **requirements.txt**: The packages required for running our code.
 
 ## Prerequisites
 |Library         | Version |
