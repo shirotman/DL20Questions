@@ -27,7 +27,7 @@ config = LoraConfig(
 model = get_peft_model(model, config)
 tokenizer.add_special_tokens({'pad_token': '[PAD]'})
 model.resize_token_embeddings(len(tokenizer))
-model.load_state_dict(torch.load("./GPT2_ft2prompt.pth"))
+model.load_state_dict(torch.load("../fine-tuned-models/GPT2-LoRA/GPT2_ft2prompt.pth"))
 
 # Generating a question
 prompt = input("Insert a prediction to prompt a question:")
