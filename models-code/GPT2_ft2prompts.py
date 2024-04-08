@@ -1,5 +1,4 @@
 # Imports
-import os
 import torch
 import transformers
 from transformers import GPT2Tokenizer, GPT2Config, GPT2LMHeadModel
@@ -31,12 +30,11 @@ def print_trainable_parameters(model): # Print number of trainable parameters
     )
 
 # LORA
-
 model.gradient_checkpointing_enable()  # reduce number of stored activations
 model.enable_input_require_grads()
 
 config = LoraConfig(
-    r=16, #attention heads
+    r=16, #LoRA rank
     lora_alpha=32, #alpha scaling
     lora_dropout=0.05,
     bias="none",
@@ -48,7 +46,6 @@ for param in model.parameters():
 model = get_peft_model(model, config)
 
 #  Data Pre-process
-
 tokenizer.add_special_tokens({'pad_token': '[PAD]'})
 model.resize_token_embeddings(len(tokenizer))
 
@@ -62,6 +59,8 @@ data_train = data['train'].map(lambda samples: tokenizer(samples['prediction'], 
 data_tensor = data_train.map(lambda examples: {'input_ids': torch.tensor(examples['input_ids']), 'attention_mask': torch.tensor(examples['attention_mask'])})
 data_tensor = data_tensor.remove_columns(['subject','question','answer','prediction'])
 
+
+# Training time
 for param in model.base_model.model.lm_head.parameters():
     param.requires_grad = True
 print_trainable_parameters(model)
@@ -83,5 +82,6 @@ trainer = transformers.Trainer(
 model.config.use_cache = False  # silence the warnings. Please re-enable for inference!
 trainer.train()
 
+# Saving the model
 fname = "./GPT2_ft2prompt.pth"
 torch.save(model.state_dict(), fname)
