@@ -2,8 +2,10 @@
 import torch
 import transformers
 from transformers import GPT2Tokenizer, GPT2Config, GPT2LMHeadModel
-from preprocess_dataset import get_preprocessed_20Q_dataset
 from peft import LoraConfig, get_peft_model
+import sys
+sys.path.insert(0, '..')
+from utils.preprocess_dataset import get_preprocessed_20Q_dataset
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f'Using device: {device}')
@@ -83,5 +85,5 @@ model.config.use_cache = False  # silence the warnings. Please re-enable for inf
 trainer.train()
 
 # Saving the model
-fname = "./GPT2_ft2prompt.pth"
+fname = "../fine-tuned-models/GPT2-LoRA/GPT2_ft2prompt.pth"
 torch.save(model.state_dict(), fname)
