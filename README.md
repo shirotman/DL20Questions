@@ -4,8 +4,40 @@
 DL20Questions is a repository for an implementation of a Natural Language Processing (NLP) system that plays the game 20 Questions. This project aims to demonstrate the capabilities of NLP in understanding and generating human-like questions in the context of the game.
 
 ## Repository Structure
-- **local-datasets**: This folder contains all the datasets used to train our models.
-- **models-code**: This folder contains the Python scripts for our NLP models. These scripts are used to fine-tune and analyze our models.
+- **local-datasets**: This folder contains the datasets we have created and used to train our models.
+- **fine-tuned-models**: This folder contains our trained models.
+- **models-code**: This folder contains the Python scripts for training and using our NLP models. These scripts are used to fine-tune and analyze our models.
 - **utils**: This folder contains the script used to preprocess the data from the datasets mentioned above.
 - **game-flow.py**: This is the main script that uses the models and allows us to play the game with the artificial player.
 
+## Prerequisites
+|Library         | Version |
+|----------------------|----|
+|Python|  3.8  |
+|torch|  2.2.2 |
+|numpy|  1.24.2 |
+|peft|  0.10.0 |
+|transformers|  4.39.3 |
+|matplotlib|  3.8.0 |
+|datasets|  2.18.0 |
+|sentence_transformers| 2.6.1 |
+
+## Usage
+To run the game, use the script ```game-flow.py``` located in this directory:
+```Shell
+python game-flow.py
+```
+
+**Before** running the game, you need to train the GPT2 (Asker) model **from the ```models-code``` directory**:  
+```Shell
+cd models-code
+python GPT2_ft2prompts.py
+```
+
+**Optional (not required for running the game as the repository contains a checkpoint):** For training the FLAN-T5 (Predictor) model, run the script ```flan-t5-LoRA.py``` **from the ```models-code``` directory**:
+```Shell
+cd models-code
+python flan-t5-LoRA.py
+```
+
+Eventually, all models will be located in the ```fine-tuned-models``` directory.
