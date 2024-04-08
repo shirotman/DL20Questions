@@ -40,4 +40,7 @@ cd models-code
 python flan-t5-LoRA.py
 ```
 
-Eventually, all models will be located in the ```fine-tuned-models``` directory.
+Eventually, all models will be located in the ```fine-tuned-models``` directory.  
+
+**GPT2_inference.py**:  
+Inside the "models-code" folder there's a file named "GPT2_inference.py" which is used to test the questions asker (GPT2) and provide perplexity analysis. In order to run it make sure to run "GPT2_ft2prompts.py" first, which generates the fine tuned GPT2 model.
