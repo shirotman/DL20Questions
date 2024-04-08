@@ -1,7 +1,7 @@
 # DL20Questions
 
 ## Overview
-DL20Questions is a repository for an implementation of a Natural Language Processing (NLP) system that plays the game 20 Questions. This project aims to demonstrate the capabilities of NLP in understanding and generating human-like responses.
+DL20Questions is a repository for an implementation of a Natural Language Processing (NLP) system that plays the game 20 Questions. This project aims to demonstrate the capabilities of NLP in understanding and generating human-like questions in the context of the game.
 
 ## Features
 - **NLP-Based Questioning**: The system generates intelligent questions based on the user's responses.
